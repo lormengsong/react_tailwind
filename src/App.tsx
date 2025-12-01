@@ -12,7 +12,7 @@ function App() {
             <div className="flex items-center">
               <nav className="font-sen text-gray-800 dark:text-white uppercase text-lg lg:flex items-center hidden">
                 <a href="#" className="py-2 px-6 flex">
-                  Home
+                  HomeAAA
                 </a>
                 <a href="#" className="py-2 px-6 flex">
                   Watch
